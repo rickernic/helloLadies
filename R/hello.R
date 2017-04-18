@@ -5,4 +5,5 @@
 #' @export
 hello <- function() {
   say("Hi, R-ladies Ames!")
+  "This is a mistake"
 }
